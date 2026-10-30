@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Oddsly Predictions</string>
+    <string name="nav_free_tips">Free Tips</string>
+    <string name="nav_vip_tips">VIP Tips</string>
+    <string name="nav_settings">Settings</string>
+</resources>

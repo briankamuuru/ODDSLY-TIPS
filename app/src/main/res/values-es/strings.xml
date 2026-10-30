@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Oddsly Predictions</string>
+    <string name="nav_free_tips">Pronósticos Gratis</string>
+    <string name="nav_vip_tips">Pronósticos VIP</string>
+    <string name="nav_settings">Ajustes</string>
+</resources>

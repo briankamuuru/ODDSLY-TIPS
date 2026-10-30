@@ -1,0 +1,6 @@
+{
+  "name": "Oddsly Predictions",
+  "description": "Football predictions and tips app featuring Free Tips, VIP Tips categories, automatic history tracking, and multi-language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
